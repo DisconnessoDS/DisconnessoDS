@@ -8,4 +8,4 @@
 # ` 🏆 ` **Projects** <br>
 ### ` 📖 ` **GexCode™** <br>
 <img src="https://i.postimg.cc/LsYxvYNT/Screenshot-2024-07-02-133649.png" width="50px"> <br>
-<p>We provide excellent documentation on programming, accompanied by short blogs discussing various aspects of computing. Visit our [website](https://gexcode.vercel.app)</p> <br>
+<p>We provide excellent documentation on programming, accompanied by short blogs discussing various aspects of computing. Visit our [website]([https://gexcode.vercel.app](https://i.postimg.cc/LsYxvYNT/Screenshot-2024-07-02-133649.png))</p> <br>
