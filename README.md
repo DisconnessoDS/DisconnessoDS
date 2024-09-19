@@ -9,4 +9,4 @@
 ### ` 📖 ` **VoltaCode™** <br>
 <img src="https://i.postimg.cc/59Sfz9LP/staticvoltacodelogobrutto2.png" style="border-radius: 10px;" width="50px"> <br>
 <p>We provide excellent documentation on programming, accompanied by short blogs discussing various aspects of computing. Visit our website: https://voltacode.vercel.app</p> <br>
-[![Video]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://youtu.be/dQw4w9WgXcQ?si=wYoTnYyDPkB1htxw))]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/dQw4w9WgXcQ?si=wYoTnYyDPkB1htxw))
+[![Video Demonstration](https://youtu.be/dQw4w9WgXcQ?si=wYoTnYyDPkB1htxw)](https://youtu.be/dQw4w9WgXcQ?si=wYoTnYyDPkB1htxw)
