@@ -4,7 +4,7 @@
 
 <h1 align="left">Disconnesso</h1>
 
-###
+
 
 <p align="left">《💫》 Main project: VoltaCode<br>《🥀》Real name: Fabio Franco<br>《🏫》IPSIA - Elettrica<br>《🪴》Passioni: Elettrica, informatica, programmazione<br>《🧑》Anni: 15</p>
 
