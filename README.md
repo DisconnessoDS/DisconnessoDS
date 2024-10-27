@@ -1,7 +1,7 @@
 <img align="left" height="200" src="https://voltacode.vercel.app/immagin1/Black_and_White_Circle_Business_Logo_1_-removebg-preview.png"  />
 
 
-<h3 align="left">Disconnesso</h3>
+<h2 align="left">Disconnesso</h2>
 
 
 
